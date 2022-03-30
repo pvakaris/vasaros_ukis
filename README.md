@@ -1,4 +1,4 @@
-## How to test Locally
+## Test Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
 
