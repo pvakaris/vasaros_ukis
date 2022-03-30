@@ -17,3 +17,9 @@
 ## View online
 
 Website [vasarosukis.lt](https://vasarosukis.lt)
+
+##
+
+Vakaris Paulavičius and _Stackbit_
+
+Version 1.1
