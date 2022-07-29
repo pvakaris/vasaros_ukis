@@ -18,8 +18,8 @@ sections:
 
           Didžiausios ir gardžiausios
 
-          *   1kg kaina - 6€
-          *   Perkant 10kg ir daugiau, kilogramo kaina - 5€
+          *   1kg kaina - 7€
+          *   Perkant 10kg ir daugiau, kilogramo kaina - 6€
         content_align: left
         actions:
           - label: Susisiekti
@@ -57,7 +57,7 @@ sections:
           Vitaminų bomba
 
           *   1kg kaina - 7€
-          *   Perkant daugiau nei 5kg, vieno kilogramo kaina - 5€ blach 
+          *   Perkant daugiau nei 5kg, vieno kilogramo kaina - 6€ 
         content_align: left
         actions:
           - label: Susisiekti
