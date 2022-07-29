@@ -1,5 +1,5 @@
 {
-    "description": "Nuostabiausias ūkis Lietuvoje!",
+    "description": "Naminės uogos bei tyras miško bičių medus.",
     "layout": "boxed",
     "style": "classic",
     "palette": "gray",
@@ -7,7 +7,7 @@
     "base_font": "serif",
     "header": {
         "title": "Vasaros ūkis",
-        "logo": "images/azalea.png",
+        "logo": "images/lg.png",
         "logo_alt": "Vasaros ūkis",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -41,17 +41,16 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Puslapis šiuo metu koreguojamas, prašome sugrįžti vėliau.\n",
         "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
+        "anncmnt_is_home_only": false,
+        "anncmnt_has_close": false,
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/magical-artichoke.png",
+        "logo": "images/lg.png",
         "logo_alt": "Vasaros ūkis",
         "has_primary_nav": true,
-        "primary_nav_title": "",
+        "primary_nav_title": "  ",
         "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_title": "",
@@ -107,7 +106,7 @@
         "social_links": [
             {
                 "label": "YouTube",
-                "url": "https://www.facebook.com/Vasaros-%C5%ABkis-334778101105761",
+                "url": "https://www.facebook.com/ukisVasaros",
                 "style": "link",
                 "has_icon": true,
                 "icon": "facebook",
@@ -135,9 +134,9 @@
                 "type": "action"
             }
         ],
-        "content": "© 2021 VASAROS ŪKIS. Powered by Stackbit.",
+        "content": "© 2021 VASAROS ŪKIS",
         "links": []
     },
     "title": "Vasaros ūkis",
-    "favicon": "images/great-tortoise.png"
+    "favicon": "images/Bee.png"
 }

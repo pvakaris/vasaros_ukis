@@ -11,7 +11,7 @@ sections:
     background_color: none
     actions:
       - label: Atgal į pagrindinį
-        url: /index
+        url: /
         style: primary
         has_icon: false
         icon: arrow-left
@@ -19,5 +19,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    image: images/smart-panda.png
+    media_position: bottom
 template: advanced
 ---

@@ -9,8 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: (piešinys)
-        subtitle: ''
+      - subtitle: ''
         title_align: left
         content: |
           ***
@@ -28,8 +27,8 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: (piešinys)
-        subtitle: ''
+        image: images/berry3.png
+      - subtitle: ''
         title_align: left
         content: |
           ***
@@ -47,8 +46,8 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: (piešinys)
-        subtitle: ''
+        image: images/jarHoney2.png
+      - subtitle: ''
         title_align: left
         content: |
           ***
@@ -66,6 +65,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        image: images/great-birch.png
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
@@ -74,38 +74,39 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: ''
+    actions: []
   - type: grid_section
-    title: Dažnai užduodami klausimai
+    title: Dažniausiai užduodami klausimai
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Sagittis vitae et leo duis ut diam?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-      - title: Viverra nam libero justo laoreet sit?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+      - title: Koks gi tas jūsų medus?
+        content: >
+          Mūsų bitės medų neša iš aplinkinių pievų bei čia pat esančio miško.
+          Laukuose auga vaismedžiai, uogų ir riešutų krūmai, dobilai, gėlės.
+          Greta neauga nei grikiai, nei pievų rapsai.
+      - title: Ar uogos auginamos natūraliai?
+        content: >
+          Taip! Mes visad buvome, esame ir būsime natūralių bei sveikų maisto
+          produktų šalininkai. Mūsų ūkis nenaudoja trašų, o išdygusias piktžoles
+          ravime rankomis. Taip užtikriname, jog mūsų parduodami gamtos turtai
+          yra sveiki, tokie, kokius užaugino gamta.
+      - title: Ar produktai visad šviežūs?
+        content: >
+          Taip! Uogas ir vaisius renkame ir pristatome tą pačią dieną. Taip
+          užtikriname gėrybių šviežumą, struktūrą bei tyrą skonį.
+
+
+          Medus išlieka šviežus ilgą laiką. 
+      - title: Negaliu atvykti į sutartą vietą. Ar galite pristatyti į namus?
+        content: >
+          Jeigu jūsų užsakymo suma siekia 50€, galima tartis dėl asmeninio
+          pristatymo. Taip pat, produktus į jūsų pageidaujamą vietą galime
+          atvežti už papildomą mokestį.
+      - title: Kokioje pakuotėje parduodate uogas ir medų?
+        content: >
+          Medus parduodamas 1l stiklainiuose. Uogos - 1kg plastikiniuose
+          indeliuose su dangteliu. Perkant didesnį kiekį (šaldymui), siūlome
+          turėti savo tarą.
+        subtitle: ''
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
@@ -114,5 +115,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    subtitle: ''
 template: advanced
 ---

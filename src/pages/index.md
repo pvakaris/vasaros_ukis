@@ -3,18 +3,14 @@ title: Pagrindinis
 sections:
   - type: hero_section
     title: Vasaros ūkis
-    subtitle: Optional hero section subtitle
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    subtitle: Naminės uogos bei tyras miško bičių medus.
     actions:
-      - label: Try Free
+      - label: Asortimentas
         url: /pricing
         style: primary
-      - label: Learn More
-        url: /features
+      - label: Noriu susisiekti
+        url: /contact
         style: secondary
-    image: images/Background Layer.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -23,186 +19,137 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
+    image: images/scientific-sun.png
   - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
+    title: Naudinga informacija
+    subtitle: ''
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: Kas mes
+        content: >
+          Mes esame vienai šeimai priklausantis ūkis, kuriame auga įvairūs
+          vaisių ir riešutų krūmai bei medžiai. Vasaros metu užsiimame užaugintų
+          gėrybių pardavimu. Vasaros ūkis yra oficialus Lietuvos Uogu Augintojų
+          Asociacijos (LUAA) narys.
         actions:
-          - label: Learn More
-            url: /style-guide
+          - label: Apie ūkį
+            url: /features
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        image: images/Bees.png
+      - title: Kuo prekiaujame
+        content: >
+          Vasaros metu prekiaujame šviežiomis sausmedžių ir šilauogių uogomis.
+          Taip pat, rudenį ir pavasarį turime šviežaus miško bičių medaus.
         actions:
-          - label: Learn More
-            url: /style-guide
+          - label: Asortimentas
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
+        image: images/best-hedgehog.png
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
+    has_border: false
+    padding_bottom: none
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: Nuorodos
+    subtitle: ''
     grid_items:
-      - title: Section Item 1
+      - title: Susisiekimas
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Šiuo metu uogas pardavinėjame tik Vilniuje ir Šiauliuose. Kontaktinius
+          duomenis galite rasti paspaudę žemiau esančią rodyklę.
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /contact
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/newShape247.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Laiškai ir atsiliepimai
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Norite palikti atsiliepimą ar šiaip parašyti mums laišką? Žemiau
+          esanti rodyklė parodys jums kelią.
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /contact
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/newDesignEmail.png
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: Atsiliepimai
+    subtitle: ''
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > Uogas naudojau kaip torto papuošimą dukros gimtadieniui. Svečiai ir
+          vaikai buvo nustebinti uogų dydžiu ir skoniu. Labai jums ačiū!
 
 
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+          **Ivona**
+        image: images/beHIVE.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > Dangiško skonio uogos ir asmeninis pristatymas į namus. Vasaros
+          ūkiui bei jo šilauogėms, mano manymu, lygių kol kas tikrai nėra.
 
 
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+          **Agnė**
+        image: images/beHIVE.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > Kasmet iš šio ūkio perku medų ir šilauoges. Kokybe dar niekad
+          nenuvylė. Vienu žodžiu - super!
 
 
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+          **Algis**
+        image: images/beHIVE.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > Nepaprastai skanios šilauogės ir sausmedžių uogos. Labai
+          rekomenduoju.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
+          **Gabrielė**
+        image: images/beHIVE.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
@@ -212,56 +159,11 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
 template: advanced
 ---

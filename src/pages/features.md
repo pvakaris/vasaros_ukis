@@ -8,38 +8,68 @@ sections:
   - type: features_section
     features:
       - title: Mūsų nuostabi komanda
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-3.jpg
+        content: >
+          Ūkio šeimininkai - Paulavičių šeima. Siekdami puoselėti ūkį, bei
+          užtikrinti aukščiausią užauginamų produktų kokybę, ūkyje nuolatos
+          darbuojasi šeimos nariai. Į pagalbą neretai prisijungia seneliai ir
+          močiutės.
+        image: images/99.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
       - title: Ūkio lokacija
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+        content: >
+          Mūsų ūkis gyvuoja netoli miestelio pavadinimu Giedraičiai. Tai Molėtų
+          rajono savivaldybė.
         media_position: left
         media_width: fifty
-      - title: Apie vaisius ir uogas
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
+        image: images/New Group.png
+      - title: Sausmedžių alėja
+        content: >
+          Sausmedžiai, tai naujas mūsų atradimas. Nors krūmeliai dar maži,
+          tačiau kiekvieną vasarą jau duoda nemažą derlių. Uogos turi išskirtinį
+          ir ypač išraiškingą skonį, o ir vitaminų jose tikrai netrūksta.
+        image: images/99.png
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+      - title: Bičių namai
+        content: >
+          Mūsų ūkyje gyvena 15 bičių šeimų, kurios vasaros metu nenuilsdamos
+          neša medų ir kaupia jį savo aviliuose. Bitės draugiškos, todėl mielai
+          dalinasi medumi su mumis.
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: ''
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/99.png
+      - title: Šilauogių laukai
+        content: >
+          Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai
+          išpuoselėtas ir populiariausias mūsų produktas. Uogos didelės,
+          saldžios, o svarbiausia, natūraliai užaugintos.  Šiuo metu mūsų bitės
+          kasdien prižiūri beveik du tūkstančius šilauogių krūmų.
+        actions: []
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/splendid-spinach.png
+      - title: Tvenkinių tvenkiniai
+        content: >
+          Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
+          bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
+          dienomis augalams netrūktų drėgmės bei mineralų.
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/marvelous-iron.png
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
@@ -50,7 +80,7 @@ sections:
 
 
           **Vakaris,** *Vilnius*
-        image: images/eleanor-carr.png
+        image: images/beHIVE.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
@@ -62,7 +92,7 @@ sections:
 
 
           **Kęstutis,** *Šiauliai*
-        image: images/gordon-norman.png
+        image: images/beHIVE.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
@@ -74,7 +104,7 @@ sections:
   - type: cta_section
     title: Ar jau susipažinote su mūsų ūkiu?
     content: >
-      Jei taip, gal norite žvilgtelėti į sarašą gamtos gėrybių kuriomis šiuo
+      Jei taip, gal norite žvilgtelėti į sarašą gamtos gėrybių, kuriomis šiuo
       metu prekiaujame?
     actions:
       - label: Su malonumu!

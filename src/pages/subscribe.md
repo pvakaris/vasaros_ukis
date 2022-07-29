@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: Atgal į pagrindinį
-        url: /index
+        url: /
         style: primary
         has_icon: false
         icon: arrow-left
@@ -17,7 +17,7 @@ sections:
         type: action
     image_alt: lorem-ipsum
     video_embed_html: ''
-    media_position: top
+    media_position: bottom
     media_width: fifty
     align: center
     padding_top: large
@@ -29,5 +29,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/maroon-moon.png
 template: advanced
 ---
