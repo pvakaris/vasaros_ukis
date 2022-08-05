@@ -45,7 +45,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/99.png
+        image: images/biciu_nameliai.png
       - title: Šilauogių laukai
         content: >
           Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai
@@ -57,7 +57,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/splendid-spinach.png
+        image: images/silauogiu_krumai_rudeni.png
       - title: Tvenkinių tvenkiniai
         content: >
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
@@ -69,7 +69,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/marvelous-iron.png
+        image: images/didysis_tvenkinys.png
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus

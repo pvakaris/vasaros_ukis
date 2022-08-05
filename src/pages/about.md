@@ -11,21 +11,23 @@ sections:
       - title: ''
         subtitle: ''
         content: ''
-        image: images/44.png
-        image_alt: People in conversation in the office lounge area
+        image: images/silauogiu_krumai_rudeni.png
+        image_alt: Silauogiu krumai
         media_position: left
         media_width: fifty
       - title: ''
         subtitle: ''
         content: ''
-        image_alt: People in a conference room
+        image: images/biciu_nameliai.png
+        image_alt: Biciu nameliai
         media_position: left
         media_width: fifty
       - title: ''
         subtitle: ''
         content: ''
-        image_alt: Happy co-workers
-        media_position: right
+        image: images/didysis_tvenkinys.png
+        image_alt: Didysis tvenkinys
+        media_position: left
         media_width: fifty
   - type: cta_section
     title: Norite labiau pažinti mūsų ūkį?
