@@ -119,40 +119,24 @@ sections:
 
 
           **Ivona**
-        image: images/leaf1.png
-        image_alt: Ivonos tekstas
-        image_position: left
-        image_width: twenty-five
       - content: >
           > Dangiško skonio uogos ir asmeninis pristatymas į namus. Vasaros
           ūkiui bei jo šilauogėms, mano manymu, lygių kol kas tikrai nėra.
 
 
           **Agnė**
-        image: images/leaF.png
-        image_alt: Agnes tekstas
-        image_position: left
-        image_width: twenty-five
       - content: >
           > Kasmet iš šio ūkio perku medų ir šilauoges. Kokybe dar niekad
           nenuvylė. Vienu žodžiu - super!
 
 
           **Algis**
-        image: images/leaF.png
-        image_alt: Algio tekstas
-        image_position: left
-        image_width: twenty-five
       - content: >
           > Nepaprastai skanios šilauogės ir sausmedžių uogos. Labai
           rekomenduoju.
 
 
           **Gabrielė**
-        image: images/leaff.png
-        image_alt: Gabrieles tekstas
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
