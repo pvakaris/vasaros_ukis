@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/berry3.png
+        image: images/silauoges.png
       - subtitle: ''
         title_align: left
         content: |
@@ -46,7 +46,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/jarHoney2.png
+        image: images/medus.png
       - subtitle: ''
         title_align: left
         content: |
@@ -65,7 +65,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/great-birch.png
+        image: images/sausmedziai.png
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small

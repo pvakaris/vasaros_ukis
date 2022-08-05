@@ -13,7 +13,7 @@ sections:
           užtikrinti aukščiausią užauginamų produktų kokybę, ūkyje nuolatos
           darbuojasi šeimos nariai. Į pagalbą neretai prisijungia seneliai ir
           močiutės.
-        image: images/99.png
+        image: images/placeholder.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
@@ -23,13 +23,13 @@ sections:
           rajono savivaldybė.
         media_position: left
         media_width: fifty
-        image: images/New Group.png
+        image: images/zemelapis.png
       - title: Sausmedžių alėja
         content: >
           Sausmedžiai, tai naujas mūsų atradimas. Nors krūmeliai dar maži,
           tačiau kiekvieną vasarą jau duoda nemažą derlių. Uogos turi išskirtinį
           ir ypač išraiškingą skonį, o ir vitaminų jose tikrai netrūksta.
-        image: images/99.png
+        image: images/placeholder.png
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
@@ -80,7 +80,7 @@ sections:
 
 
           **Vakaris,** *Vilnius*
-        image: images/beHIVE.png
+        image: images/avilys.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
@@ -92,7 +92,7 @@ sections:
 
 
           **Kęstutis,** *Šiauliai*
-        image: images/beHIVE.png
+        image: images/avilys.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five

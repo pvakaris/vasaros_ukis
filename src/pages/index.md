@@ -11,7 +11,7 @@ sections:
       - label: Noriu susisiekti
         url: /contact
         style: secondary
-    image_alt: Hero section placeholder image
+    image_alt: Korys
     media_position: left
     media_width: fifty
     align: left
@@ -37,10 +37,10 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image_alt: Feature 1 placeholder image
+        image_alt: Bites
         media_position: right
         media_width: fifty
-        image: images/Bees.png
+        image: images/bites.png
       - title: Kuo prekiaujame
         content: >
           Vasaros metu prekiaujame šviežiomis sausmedžių ir šilauogių uogomis.
@@ -52,10 +52,10 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image_alt: Feature 2 placeholder image
+        image_alt: Bite
         media_position: left
         media_width: fifty
-        image: images/best-hedgehog.png
+        image: images/bite.png
     feature_padding_vert: large
     align: center
     background_color: secondary
@@ -79,8 +79,8 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/newShape247.png
-        image_alt: Section item 1 icon
+        image: images/247.png
+        image_alt: Visa para
         image_position: top
         image_align: left
         image_has_padding: true
@@ -98,8 +98,8 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/newDesignEmail.png
-        image_alt: Section item 2 icon
+        image: images/email.png
+        image_alt: El. laiskas
         image_position: top
         image_align: left
         image_has_padding: true
@@ -119,8 +119,8 @@ sections:
 
 
           **Ivona**
-        image: images/beHIVE.png
-        image_alt: Hanson Deck
+        image: images/leaf1.png
+        image_alt: Ivonos tekstas
         image_position: left
         image_width: twenty-five
       - content: >
@@ -129,8 +129,8 @@ sections:
 
 
           **Agnė**
-        image: images/beHIVE.png
-        image_alt: Miles Tone
+        image: images/leaF.png
+        image_alt: Agnes tekstas
         image_position: left
         image_width: twenty-five
       - content: >
@@ -139,8 +139,8 @@ sections:
 
 
           **Algis**
-        image: images/beHIVE.png
-        image_alt: Eleanor Carr
+        image: images/leaF.png
+        image_alt: Algio tekstas
         image_position: left
         image_width: twenty-five
       - content: >
@@ -149,8 +149,8 @@ sections:
 
 
           **Gabrielė**
-        image: images/beHIVE.png
-        image_alt: Gordon Norman
+        image: images/leaff.png
+        image_alt: Gabrieles tekstas
         image_position: left
         image_width: twenty-five
     grid_cols: two

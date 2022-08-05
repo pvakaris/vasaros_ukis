@@ -26,7 +26,7 @@ sections:
         content_align: left
         actions: []
         actions_align: center
-        image: images/newShape247.png
+        image: images/247.png
         image_alt: Partnering and sponsorships icon
         image_position: top
         image_align: center
@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/newDesignEmail.png
+        image: images/email.png
         image_alt: Help and support icon
         image_position: top
         image_align: center
