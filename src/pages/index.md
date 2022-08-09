@@ -98,7 +98,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/247.png
+        image: images/email.png
         image_alt: El. laiskas
         image_position: top
         image_align: left
