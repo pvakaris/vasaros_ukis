@@ -11,22 +11,92 @@ sections:
       - title: ''
         subtitle: ''
         content: ''
-        image: images/silauogiu_krumai_rudeni.png
+        image: images/silauogiu_krumai.jpg
         image_alt: Silauogiu krumai
         media_position: left
         media_width: fifty
       - title: ''
         subtitle: ''
         content: ''
-        image: images/biciu_nameliai.png
+        image: images/biciu_nameliai.jpg
         image_alt: Biciu nameliai
         media_position: left
         media_width: fifty
       - title: ''
         subtitle: ''
         content: ''
-        image: images/didysis_tvenkinys.png
+        image: images/biciu_nameliai2.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/didelis_tvenkinys.jpg
         image_alt: Didysis tvenkinys
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/didelis_tvenkinys2.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/pusiasalio_tvenkinys.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/laukas.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/laukas2.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/lazdynu_krumai.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/ogis_toli.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/ogis_arti.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/slyvos_toli.jpg
+        image_alt: Biciu nameliai
+        media_position: left
+        media_width: fifty
+      - title: ''
+        subtitle: ''
+        content: ''
+        image: images/slyvos_arti.jpg
+        image_alt: Biciu nameliai
         media_position: left
         media_width: fifty
   - type: cta_section

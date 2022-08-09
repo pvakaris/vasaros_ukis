@@ -13,7 +13,7 @@ sections:
           užtikrinti aukščiausią užauginamų produktų kokybę, ūkyje nuolatos
           darbuojasi šeimos nariai. Į pagalbą neretai prisijungia seneliai ir
           močiutės.
-        image: images/placeholder.png
+        image: images/ogis_arti.jpg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
@@ -29,7 +29,7 @@ sections:
           Sausmedžiai, tai naujas mūsų atradimas. Nors krūmeliai dar maži,
           tačiau kiekvieną vasarą jau duoda nemažą derlių. Uogos turi išskirtinį
           ir ypač išraiškingą skonį, o ir vitaminų jose tikrai netrūksta.
-        image: images/placeholder.png
+        image: images/lazdynu_krumai.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
@@ -45,7 +45,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/biciu_nameliai.png
+        image: images/biciu_nameliai.jpg
       - title: Šilauogių laukai
         content: >
           Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai
@@ -57,7 +57,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/silauogiu_krumai_rudeni.png
+        image: images/silauogiu_krumai.jpg
       - title: Tvenkinių tvenkiniai
         content: >
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
@@ -69,7 +69,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/didysis_tvenkinys.png
+        image: images/pusiasalio_tvenkinys.jpg
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus

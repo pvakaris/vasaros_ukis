@@ -29,6 +29,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/maroon-moon.png
+    image: images/bees_wide.png
 template: advanced
 ---
