@@ -108,7 +108,7 @@ sections:
       metu prekiaujame?
     actions:
       - label: Su malonumu!
-        url: /pricing
+        url: /asortimentas
         style: primary
     actions_position: right
     align: left

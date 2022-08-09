@@ -17,7 +17,7 @@ sections:
     form_position: bottom
     form_layout: inline
     form_id: subscribeForm
-    form_action: /subscribe
+    form_action: /prenumerata
     form_fields:
       - input_type: email
         name: email

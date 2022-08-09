@@ -6,10 +6,10 @@ sections:
     subtitle: Naminės uogos bei tyras miško bičių medus.
     actions:
       - label: Asortimentas
-        url: /pricing
+        url: /asortimentas
         style: primary
       - label: Noriu susisiekti
-        url: /contact
+        url: /kontaktai
         style: secondary
     image_alt: Korys
     media_position: left
@@ -47,7 +47,7 @@ sections:
           Taip pat, rudenį ir pavasarį turime šviežaus miško bičių medaus.
         actions:
           - label: Asortimentas
-            url: /pricing
+            url: /asortimentas
             style: primary
             has_icon: true
             icon: arrow-right
@@ -73,7 +73,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /contact
+            url: /kontaktai
             style: link
             has_icon: true
             icon: arrow-right
@@ -92,7 +92,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /contact
+            url: /kontaktai
             style: link
             has_icon: true
             icon: arrow-right

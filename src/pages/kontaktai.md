@@ -40,7 +40,7 @@ sections:
         content_align: center
         actions:
           - label: Rašyti
-            url: /general-enquiries
+            url: /laiskas
             style: secondary
             has_icon: true
             icon: arrow-right

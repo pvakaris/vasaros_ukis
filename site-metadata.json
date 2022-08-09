@@ -13,22 +13,22 @@
         "primary_nav_links": [
             {
                 "label": "Apie mus",
-                "url": "/features",
+                "url": "/apie",
                 "style": "link"
             },
             {
                 "label": "Asortimentas",
-                "url": "/pricing",
+                "url": "/asortimentas",
                 "style": "link"
             },
             {
                 "label": "Galerija",
-                "url": "/about",
+                "url": "/galerija",
                 "style": "link"
             },
             {
                 "label": "Blogas",
-                "url": "/blog",
+                "url": "/blogas",
                 "style": "link"
             }
         ],
@@ -36,7 +36,7 @@
         "secondary_nav_links": [
             {
                 "label": "Kontaktai",
-                "url": "/contact",
+                "url": "/kontaktai",
                 "style": "primary"
             }
         ],
@@ -60,17 +60,17 @@
         "tertiary_nav_links": [
             {
                 "label": "Apie mus",
-                "url": "/features",
+                "url": "/apie",
                 "style": "link"
             },
             {
                 "label": "Asortimentas",
-                "url": "/pricing",
+                "url": "/asortimentas",
                 "style": "link"
             },
             {
                 "label": "Galerija",
-                "url": "/about",
+                "url": "/galerija",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -81,7 +81,7 @@
             },
             {
                 "label": "Blogas",
-                "url": "/blog",
+                "url": "/blogas",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -92,7 +92,7 @@
             },
             {
                 "label": "Kontaktai",
-                "url": "/contact",
+                "url": "/kontaktai",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
