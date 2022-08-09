@@ -44,7 +44,7 @@ sections:
       - title: Kuo prekiaujame
         content: >
           Vasaros metu prekiaujame šviežiomis sausmedžių ir šilauogių uogomis.
-          Taip pat, rudenį ir pavasarį turime šviežaus miško bičių medaus.
+          Taip pat, visus metus turime pavasarinio bei rudeninio bičių medaus.
         actions:
           - label: Asortimentas
             url: /asortimentas
@@ -98,7 +98,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/email.png
+        image: images/247.png
         image_alt: El. laiskas
         image_position: top
         image_align: left
