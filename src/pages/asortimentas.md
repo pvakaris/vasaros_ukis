@@ -16,6 +16,8 @@ sections:
 
           ### Šilauogės
 
+          *(šiuo metu neturime)*
+
           Didžiausios ir gardžiausios
 
           *   1kg kaina - 6€
@@ -53,6 +55,8 @@ sections:
           ***
 
           ### Sausmedžių uogos
+
+          _(šiuo metu neturime)_
 
           Vitaminų bomba
 
